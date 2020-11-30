@@ -20,6 +20,11 @@ So we unpack an cache it.
 
 Now the Script iterates trough the names. For every name a new zip will be generated, this will be renamed to *.docx and...voilà we are done.
 
+## Combability
+
+The Script is written in Python3 and Uses PyQt5, it should run on most modern PCs with Python installed.
+Tested on Windows 10 and Manjaro Linux.
+
 ## Todo
 - Error handling
 - English UI
